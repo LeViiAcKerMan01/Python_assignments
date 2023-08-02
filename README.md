@@ -2,6 +2,6 @@
 
 https://github.com/Username?tab=achievements
 
-# [Username= <Your Github Profile name>]
+# [ Username= Your Github Profile name ]
 
 Have a Good Day!
